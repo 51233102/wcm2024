@@ -1,0 +1,12 @@
+import fitz  # 先安裝 fitz 再安裝 pymupdf, pip install fitz, pip install pymupdf
+
+with fitz.open("2023_Programming for Absolute Beginners.pdf") as doc:
+    text = ""
+    for page in doc:
+        text += page.get_text()
+
+# 寫入文本檔案
+with open("2023_Programming for Absolute Beginners.txt", "w", encoding="utf-8") as file:
+    file.write(text)
+
+print("Text has been saved to progit.txt")
