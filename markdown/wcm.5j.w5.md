@@ -50,3 +50,5 @@ AI對學校教育的重大影響包括：
 教學方式轉變：傳統的教師主導式教學可能會轉向更多以學生為中心的互動式學習模式。
 
 數據分析：AI可以幫助學校分析學生的表現，從而更好地理解學生的需求，制定相應的教育策略。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aQuRnFZgOgo?si=mWZi2INKCy4-NabJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
