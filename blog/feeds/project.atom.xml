@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - Project</title><link href="./" rel="alternate"></link><link href="./feeds/project.atom.xml" rel="self"></link><id>./</id><updated>2024-04-22T08:29:41+08:00</updated><entry><title>WCM 分組專案</title><link href="./wcm-w10-project.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-04-22T08:29:41+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-18:./wcm-w10-project.html</id><summary type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
+
+
+&lt;h1&gt;分組專案&lt;/h1&gt;
+&lt;p&gt;給定 &lt;a href="http://229.cycu.org/5j_wcm2024_midterm.csv"&gt;5j_wcm2024_midterm 資料&lt;/a&gt; 與 &lt;a href="http://229.cycu.org/1a_wcm2024_midterm.csv"&gt;1a_wcm2024_midterm 資料&lt;/a&gt; 檔案, 包含學號、Github 帳號與組別. 請各組設法在分組網站與網誌中, 建立能連結到各分組組員的課程倉儲與網站連結頁面. 且最終希望能在處理過程將各組員的歷程網站與網誌整理到分組倉儲中.&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://github.com/Chen-Yi-jing/wcm2024" target="_blank"&gt;51233101&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233102/wcm2024" target="_blank"&gt;51233102&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/Lin-Si-yu/wcm2024" target="_blank"&gt;51233103&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/kylechan092804/wcm2024" target="_blank"&gt;51233104&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233105/wcm2024" target="_blank"&gt;51233105&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233106/wcm2024" target="_blank"&gt;51233106&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233107/wcm2024" target="_blank"&gt;51233107&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233108/wcm2024" target="_blank"&gt;51233108&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233109/wcm2024" target="_blank"&gt;51233109&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/ssssuuuuyyyyy/wcm2024" target="_blank"&gt;51233110&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233111/wcm2024" target="_blank"&gt;51233111&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233112/wcm2024" target="_blank"&gt;51233112&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233113/wcm2024" target="_blank"&gt;51233113&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233114/wcm2024" target="_blank"&gt;51233114&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233115/wcm2024" target="_blank"&gt;51233115&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233116/wcm2024" target="_blank"&gt;51233116&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233117/wcm2024" target="_blank"&gt;51233117&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233118/wcm2024" target="_blank"&gt;51233118&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/boyi1217/wcm2024" target="_blank"&gt;51233119&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/Yaosunset/wcm2024" target="_blank"&gt;51233120&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233121/wcm2024" target="_blank"&gt;51233121&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/zsw08/wcm2024" target="_blank"&gt;51233122&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233123/wcm2024" target="_blank"&gt;51233123&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233124/wcm2024" target="_blank"&gt;51233124&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/gyjbujy/51233125/wcm2024" target="_blank"&gt;51233125&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233126/wcm2024" target="_blank"&gt;51233126&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/kaixiang1220/wcm2024" target="_blank"&gt;51233127&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233128/wcm2024" target="_blank"&gt;51233128&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233129/wcm2024" target="_blank"&gt;51233129&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233130/wcm2024" target="_blank"&gt;51233130&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233131/wcm2024" target="_blank"&gt;51233131&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233132/wcm2024" target="_blank"&gt;51233132&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233133/wcm2024" target="_blank"&gt;51233133&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233134/wcm2024" target="_blank"&gt;51233134&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233135/wcm2024" target="_blank"&gt;51233135&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233136/wcm2024" target="_blank"&gt;51233136&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233137/wcm2024" target="_blank"&gt;51233137&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233138/wcm2024" target="_blank"&gt;51233138&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233139/wcm2024" target="_blank"&gt;51233139&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233140/wcm2024" target="_blank"&gt;51233140&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233141/wcm2024" target="_blank"&gt;51233141&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233142/wcm2024" target="_blank"&gt;51233142&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233143/wcm2024" target="_blank"&gt;51233143&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233144/wcm2024" target="_blank"&gt;51233144&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Project"></category><category term="Brython"></category><category term="w10"></category></entry></feed>

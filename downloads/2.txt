@@ -1,0 +1,12 @@
+import fitz  # install using: pip install PyMuPDF
+
+with fitz.open(“progit.pdf”) as doc:
+    text = “”
+    for page in doc:
+        text += page.get_text()
+
+# 將text存為檔案
+with open(“progit.txt”, “w”, encoding=“utf-8”) as file:
+    file.write(text)
+
+print(“Text saved to progit.txt”)
