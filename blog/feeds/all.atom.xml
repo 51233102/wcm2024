@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-27T11:00:00+08:00</updated><entry><title>WCM 分組專案</title><link href="./wcm-w14-project.html" rel="alternate"></link><published>2024-05-27T11:00:00+08:00</published><updated>2024-05-27T08:26:08+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-27:./wcm-w14-project.html</id><summary type="html">&lt;p&gt;WCM 第二組 51233102&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-03T07:41:51+08:00</updated><entry><title>WCM 分組專案</title><link href="./wcm-w14-project.html" rel="alternate"></link><published>2024-05-27T11:00:00+08:00</published><updated>2024-05-27T08:26:08+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-27:./wcm-w14-project.html</id><summary type="html">&lt;p&gt;WCM 第二組 51233102&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;WCM 第二組 51233102&lt;/p&gt;
 
 
@@ -78,7 +78,12 @@
 &lt;p&gt;創新課程設計：AI可以支持新的教學方法，例如使用沉浸式技術和模擬來增強學習體驗。&lt;/p&gt;
 &lt;p&gt;教學方式轉變：傳統的教師主導式教學可能會轉向更多以學生為中心的互動式學習模式。&lt;/p&gt;
 &lt;p&gt;數據分析：AI可以幫助學校分析學生的表現，從而更好地理解學生的需求，制定相應的教育策略。&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aQuRnFZgOgo?si=mWZi2INKCy4-NabJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="五專"></category><category term="Chatgpt"></category><category term="w5"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-04-14T15:13:46+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aQuRnFZgOgo?si=mWZi2INKCy4-NabJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="五專"></category><category term="Chatgpt"></category><category term="w5"></category></entry><entry><title>WCM 五專第一週課程內容</title><link href="./wcm-w1-project.html" rel="alternate"></link><published>2024-02-19T11:00:00+08:00</published><updated>2024-06-03T07:41:51+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-19:./wcm-w1-project.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;五專 WCM 第一週課程內容&lt;/h1&gt;
+&lt;p&gt;申請 Github 帳號，學員申請 Replit 帳號&lt;/p&gt;
+&lt;h2&gt;建立個人的課程倉儲&lt;/h2&gt;
+&lt;p&gt;學員都已經申請 Github 帳號後, 隨即可以建立個人的課程網站, 也就是在學員的 Github 帳號中建立 wcm2024 倉儲&lt;/p&gt;</content><category term="五專"></category><category term="Brython"></category><category term="w1"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-04-14T15:13:46+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
